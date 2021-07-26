@@ -1,2 +1,3 @@
-# lab_docs
-documents storage for lab website
+�📜此为存放实验室网站上的文件仓库，使用jsDelivr进行加速
+
+
